@@ -2,7 +2,10 @@
 
 A simple Python-based Text-to-Speech Converter that converts written text into audio using Google's Text-to-Speech (gTTS) library.
 
-Features
+
+
+Features:
+
 
 Multiple Languages: Supports English, Urdu, Hindi, Arabic, French, and Spanish.
 
@@ -23,7 +26,9 @@ Google Text-to-Speech (gTTS)
 OS Module
 
  
-Usage
+Usage:
+
+
 
 Run the Python program:
 
@@ -43,7 +48,8 @@ Your audio will be generated and saved as an MP3 file.
 
  
 
-What I Learned
+What I Learned:
+
 
 Through this project, I practised:
 
